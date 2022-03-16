@@ -1,0 +1,39 @@
+{
+    "_id": "622f8115278aa0a44758b9f2",
+    "title": "REST",
+    "content": "REST is short for REpresentational State Transfer. It's an architectural style for desiging web APIs."
+},
+{
+    "_id": "5c139771d79ac8eac11e754a",
+    "title": "API",
+    "content": "API stands for Application Programming Interface. It is a set of subroutine definitions, communication protocols, and tools for building software. In general terms, it is a set of clearly defined methods of communication among various components. A good API makes it easier to develop a computer program by providing all the building blocks, which are then put together by the programmer."
+},
+{
+    "_id": "5c1398aad79ac8eac11e7561",
+    "title": "Bootstrap",
+    "content": "This is a framework developed by Twitter that contains pre-made front-end templates for web design"
+},
+{
+    "_id": "5c1398ecd79ac8eac11e7567",
+    "title": "DOM",
+    "content": "The Document Object Model is like an API for interacting with our HTML"
+},
+{
+    "_id": "62311587fa2ff9d6b65a9cd3",
+    "title": "Object Oriented Programming",
+    "content": "Object-oriented programming (OOP) is a programming paradigm based on the concept of \"objects\", which can contain data and code: data in the form of fields (often known as attributes or properties), and code, in the form of procedures (often known as methods).",
+    "__v": 0
+},
+{
+    "_id": "62311a5a8ca015ad12f149dc",
+    "title": "Imperative Programming",
+    "content": "In computer science, imperative programming is a programming paradigm that uses statements that change a program's state. In much the same way that the imperative mood in natural languages expresses commands, an imperative program consists of commands for the computer to perform. Imperative programming focuses on describing how a program operates.",
+    "__v": 0
+},
+
+{
+    "_id": "623137b3183b3cfe4f4eba77",
+    "title": "Algorithm",
+    "content": "In mathematics and computer science, an algorithm is a finite sequence of well-defined instructions, typically used to solve a class of specific problems or to perform a computation. Algorithms are used as specifications for performing calculations and data processing.",
+    "__v": 0
+}
